@@ -23,7 +23,7 @@
   },
   "license": "MIT",
   "peerDependencies": {
-    "apexcharts": "^3.0.0"
+    "apexcharts": "https://github.com/deslittle/apexcharts.js/tarball/master"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0",
